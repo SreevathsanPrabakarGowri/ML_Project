@@ -1,0 +1,2 @@
+Model,Params,FLOPs,Infer_ms,Train_ms,Memory_MB,TotalTrainTimeSec,FinalTrainAcc,FinalTestAcc
+OrientedEfficientNetB0,3901062,156898304,102.5139570236206,212.60754585266113,183.0068359375,4552.374904155731,77.348,73.1
